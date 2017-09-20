@@ -1,0 +1,22 @@
+{
+  "contract_name": "Owner",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "Kill",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b60008054600160a060020a03191633600160a060020a03161790555b5b608c8061003a6000396000f300606060405263ffffffff60e060020a600035041663be26733c81146023575b600080fd5b3415602d57600080fd5b60336035565b005b60005433600160a060020a03908116911614604f57600080fd5b600054600160a060020a0316ff5b5b5600a165627a7a723058209b2942186e507ee66872ae55cc2fa54dbad33adc7d2cee989d3e63be2239f9640029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1505933483798
+}
